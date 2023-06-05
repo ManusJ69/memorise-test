@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memorise-test/static/css/main.346e2e71.css",
+    "main.js": "/memorise-test/static/js/main.d2abf31c.js",
+    "static/js/787.0c3f432a.chunk.js": "/memorise-test/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/memorise-test/index.html",
+    "main.346e2e71.css.map": "/memorise-test/static/css/main.346e2e71.css.map",
+    "main.d2abf31c.js.map": "/memorise-test/static/js/main.d2abf31c.js.map",
+    "787.0c3f432a.chunk.js.map": "/memorise-test/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.346e2e71.css",
+    "static/js/main.d2abf31c.js"
+  ]
+}
